@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a8414489.css","mappings":"AACA,UAIE,wBAA0B,CAF1B,QAAS,CACT,SAEF","sources":["reset.css"],"sourcesContent":["/* reset.css */\r\nhtml,\r\nbody {\r\n  margin: 0;\r\n  padding: 0;\r\n  background-color: darkgray;\r\n}\r\n"],"names":[],"sourceRoot":""}
